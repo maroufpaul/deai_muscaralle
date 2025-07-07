@@ -23,7 +23,7 @@ A comprehensive dashboard for visualizing diversity in the Muscarelle Museum's p
 ### Installation
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/museum-dashboard.git
+   git clone git@github.com:maroufpaul/deai_muscaralle.git
    cd museum-dashboard
    \`\`\`
 
@@ -59,7 +59,7 @@ museum-dashboard/
 +-- data_enrichment.py          # Data enrichment pipeline
 +-- requirements.txt            # Python dependencies
 +-- .streamlit/
-¦   +-- config.toml            # Streamlit configuration
+   +-- config.toml            # Streamlit configuration
 +-- README.md                  # This file
 +-- data/                      # Sample data files
     +-- sample_collection.csv
@@ -76,9 +76,9 @@ MIT License - See LICENSE file for details
 ## Contact
 
 For questions about this dashboard or the underlying data enrichment process, please contact:
-- **Developer**: [Your Name]
-- **Institution**: Muscarelle Museum of Art, Williamsburg, VA
-- **Email**: [your.email@wm.edu]
+- **Developer**: Marouf Paul
+- **Institution**: musueam @.....
+- **Email**: maroofpaul1@gmail.com
 
 ## Acknowledgments
 
