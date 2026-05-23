@@ -1,6 +1,6 @@
-# Muscarelle Museum Collection Diversity Dashboard
+# Collection Diversity Dashboard
 
-A comprehensive dashboard for visualizing diversity in the Muscarelle Museum's permanent collection, focusing on artist gender and cultural heritage representation.
+A comprehensive dashboard for visualizing diversity in the  Museum's permanent collection, focusing on artist gender and cultural heritage representation.
 
 ## Features
 
