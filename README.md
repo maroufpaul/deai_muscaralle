@@ -84,7 +84,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions about this dashboard or the underlying data enrichment process, please contact:
 
 - **Developer**: Marouf Paul  
-- **Email**: maroofpaul1@gmail.com  
+- **Email**: maroufpaul2@gmail.com  
 - **Institution**: will decide soon....
 
 ## Acknowledgments
